@@ -1,0 +1,118 @@
+nav {
+    background: black;
+    margin-top: -50px;
+    margin-left: -8px;
+    margin-right: -8px;
+    justify-content: space-between;
+    justify-items: start;
+    align-items: center;
+    align-content: stretch;
+    height: 260px;
+}
+
+.des {
+    color: mistyrose;
+    font-family: serif;
+    font-size: 50px;
+}
+
+
+.les {
+    color: white;
+    font-family: serif;
+    font-size: 50px;
+}
+
+
+
+
+.tel {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 285px;
+    left: 550px;
+
+}
+
+
+
+
+hr {
+    color: black;
+    border-color: black;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 3px;
+}
+
+
+footer {
+    background-color: #0c0707;
+    height: 150px;
+}
+
+
+.p_1 {
+    margin: 10px;
+    padding-left: 320px;
+}
+
+
+.p_2 {
+    margin: 10px;
+    padding-left: 260px;
+}
+
+
+article {
+    height: 300px;
+    width: 300px;
+}
+
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+
+
+.te-h3 {
+    display: flow;
+    position: absolute;
+    top: 465px;
+    left: 550px;
+}
+
+
+.in-h3 {
+    display: flow;
+    position: absolute;
+    top: 465px;
+    left: 95px;
+}
+
+
+.yt-h3 {
+    display: flow;
+    position: absolute;
+    top: 465px;
+    left: 963px;
+}
+
+
+.cp {
+    font-size: 40px;
+    font-family: cursive;
+    color: wheat;
+    display: flow;
+    position: absolute;
+    top: 505px;
+    left: 460px;
+}
